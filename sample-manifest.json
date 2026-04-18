@@ -1,0 +1,12 @@
+{
+  "export_job_id": "84027ddb-d5af-4cad-b566-33d5c7da9b69",
+  "id_short": 547974,
+  "published_at": "2026-04-18T19:20:59Z",
+  "repo_name": "all-restaurants-in-sacramento-roseville-folsom-metro-california-us-sample-547974",
+  "sample_asset_name": "beamstation_547974_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/547974/beamstation_547974_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_records": 444,
+  "sample_sha256": "e922946012c2f99f23bdbe740c74cd595bedcf4e57794ec52d7c47aa232a0618",
+  "sample_size_bytes": 1550300,
+  "total_records": 4449
+}
