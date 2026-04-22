@@ -1,6 +1,6 @@
 # All Restaurants in Sacramento-Roseville-Folsom (Metro), California, US
 
-> Free BeamStation sample export with 444 rows and masked direct-contact fields.
+> Free BeamStation sample export with 366 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `547974` |
 | Location | Sacramento-Roseville-Folsom, CA |
 | Category | Restaurants |
-| Full dataset size | 4,449 records |
-| Free sample size | 444 records (9.98%) |
-| Last export | 2026-04-14T20:35:57.026788+00:00 |
+| Full dataset size | 3,669 records |
+| Free sample size | 366 records (9.98%) |
+| Last export | 2026-04-21T22:52:27.846496+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sacramento-roseville-folsom-metro-california-us-sample-547974/releases/download/sample-latest/beamstation_547974_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
