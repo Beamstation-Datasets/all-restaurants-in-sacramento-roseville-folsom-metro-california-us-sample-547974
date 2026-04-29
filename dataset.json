@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Restaurant dataset for the Sacramento-Roseville-Folsom metro in California's Central Valley. Covers the state capital region's dining scene, filtered by the Restaurants category group. Includes business profiles, ratings, review analytics, competitive benchmarks, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Sacramento-Roseville-Folsom (Metro), California, US",
-  "export_job_id": "5bb21617-96cf-4530-b7c7-ff2d70d79d55",
+  "export_job_id": "c02fe6e8-25ae-4e53-ab72-5ecffa8b515a",
   "github_org": "Beamstation-Datasets",
   "id_short": 547974,
   "location_name": "Sacramento-Roseville-Folsom, CA",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-sacramento-roseville-folsom-metro-california-us-sample-547974",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/547974/beamstation_547974_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 366,
-  "sample_sha256": "38235d4e0e6589496275416ef6c1f689b6ef5d464681ff51f3ec30260dd6c0d5",
-  "sample_size_bytes": 1267160,
-  "total_records": 3669,
-  "updated_at": "2026-04-21T22:52:27.846496+00:00"
+  "sample_records": 441,
+  "sample_sha256": "960193a80a04173e4603809e4cbb650cbf913a1ff80c79862fb2ea258976df9f",
+  "sample_size_bytes": 1586200,
+  "total_records": 4417,
+  "updated_at": "2026-04-29T01:57:24.319658+00:00"
 }
